@@ -115,7 +115,7 @@
                         <h3 class="text-uppercase">Teknisk support</h3>
 
                         <p class="text-muted">Har ni en defekt produkt eller fundering kring funktion? Kontakta oss via följande nedan.</p>
-                        <strong><a href="mailto:support@progressivesafety.se">support@progressivesafety.se</a></strong>
+                        <strong><a href="mailto:info@progressivesafety.se">info@progressivesafety.se</a></strong>
 
 
 
@@ -136,7 +136,7 @@
 @section('script')
 	<!-- gmaps -->
 
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 
     <script src="js/gmaps.js"></script>
     <script src="js/gmaps.init.js"></script>

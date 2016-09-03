@@ -1,0 +1,13 @@
+#heading-breadcrumbs h1
+
+
+h2 {
+  font-size: 4rem;
+}
+h5 {
+  font-size: 1,8rem;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #212121;
+}

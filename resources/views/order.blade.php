@@ -15,12 +15,12 @@
                         	{!! session('status') !!}
                         @endif
 
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                         	<div class="row">
-                        		<div class="col-md-6">
-                        			<img src="img/hero2_cropped.jpg" width="300" class="img-responsive img-circle">
+                        		<div class="col-md-12">
+                        		<!--	<img src="img/hero2_cropped.jpg" width="300" class="img-responsive img-circle"> -->
                         		</div>
-                        		<div class="col-md-6">
+                        		<div class="col-md-12">
                         			<h3>Släck med förtroende</h3>
                         			<p>Vår produkt <b>EasyExtinguish</b> kommer att hjälpa dig och alla potentiella användare att släcka en brand.</p>
                         			<p>I ett stort bostadshus, liten lägenhet, offentliga rum och annat har nu högst troligtvis en brandsläckare som inte är anpassad för alla. Med bara en så enkel lösning som vår produkt kan alla använda en brandsläckare.</p>
@@ -32,9 +32,12 @@
                         		<p>Så snart vi kan återkommer vi till dig med ett prisförslag baserat på de uppgifter du lämnat till oss.
                         			Därefter får du gå igenom vårt förslag och återkomma vare sig du är nöjd eller inte. Vi är inte sena med att mottaga andra förslag eller idéer, det viktiga är att vi kommer överens.</p>
                         	</div>
+													<a href="mailto:info@progressivesafety.se?Subject=Hello%20again" class="btn btn-small btn-template-main">Skicka meddelande</a>
+
                         </div>
-                        <div class="col-md-6">
-                        	<form method="post">
+                    <!--     <div class="col-md-6">
+
+                  <form method="post">
                         		{!! csrf_field() !!}
                         		<div class="form-group {{ $errors->has('name') ? 'has-error' : '' }}">
                         			<label>Namn / Företagsnamn *</label>
@@ -111,8 +114,9 @@
                         		</div>
 
                         		<input type="submit" class="btn btn-danger btn-block" value="Skicka">
-                        	</form>
+                        	</form> -->
                         </div>
+
                         <!-- /.owl-carousel -->
                     </div>
                 </div>

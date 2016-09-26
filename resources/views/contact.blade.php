@@ -91,6 +91,9 @@
                             </div>
                             <!-- /.row -->
                         </form>
+												<div class="col-sm-12 text-center">
+															<a href="mailto:info@progressivesafety.se?Subject=Hello%20again" class="btn btn-small btn-template-main">Skicka meddelande</a>
+												</div>
                     </div>
 
                     <div class="col-md-4">

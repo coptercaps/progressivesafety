@@ -206,8 +206,8 @@ _________________________________________________________ -->
                 <div class="col-md-3 col-sm-6">
 
                     <h4 class="inverse-red">Företaget</h4>
-              <!--      <h5><a href="/team" class="inverse">Team</a></h5> -->
-                    <h5><a href="/our-story" class="inverse">Vår Story</a></h5>
+              <!--      <h5><a href="/team" class="inverse">Team</a></h5>
+                    <h5><a href="/our-story" class="inverse">Vår Story</a></h5> -->
                     <h5><a href="/media" class="inverse">Press</a></h5>
 
                 </div>

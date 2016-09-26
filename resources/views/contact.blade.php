@@ -19,9 +19,9 @@
                             <h2>Vi finns här för idéer, tankar och funderingar</h2>
                         </div>
 
-                        <p>Vänligen kontakta oss när och hur du vill via kontaktformen så återkommer vi så snart vi bara kan.</p>
+                  <!--      <p>Vänligen kontakta oss när och hur du vill via kontaktformen så återkommer vi så snart vi bara kan.</p>
 
-                        <div class="heading">
+                      <!-  <div class="heading">
                             <h3>Kontaktformulär</h3>
                         </div>
 
@@ -136,7 +136,7 @@
 @section('script')
 	<!-- gmaps -->
 
-    <script src="http://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 
     <script src="js/gmaps.js"></script>
     <script src="js/gmaps.init.js"></script>

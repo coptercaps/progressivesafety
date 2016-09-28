@@ -1,10 +1,11 @@
 @extends('master')
 
 @section('content')
-
+<!--
 	<section>
-        <div id="map" class="with-border"></div>
+        	<div id="map" class="with-border"></div>
     </section>
+-->
 
     <div id="content">
         <div class="container" id="contact">
@@ -139,8 +140,10 @@
 @section('script')
 	<!-- gmaps -->
 
-    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
 
+    <script src="js/gmaps.js"></script>
+    <script src="js/gmaps.init.js"></script>
 
     <!-- gmaps end -->
 @endsection

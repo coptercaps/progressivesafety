@@ -105,7 +105,7 @@
                         <p>Gjuterigatan 9
                             <br>553 18 Jönköping
                             <br>
-                            <strong>Sweden</strong>
+                            <strong>Sverige</strong>
                         </p>
 
                         <h3 class="text-uppercase">Telefon</h3>

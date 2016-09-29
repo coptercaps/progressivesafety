@@ -745,10 +745,10 @@ fieldset[disabled] .btn-template-primary.active {
   position: relative;
 }
 .jumbotron {
-  padding: 30px;
+  padding: 120px;
   margin-bottom: 0;
   position: relative;
-  background: url('../img/hero1.jpg') center center repeat;
+  background: url('../img/progressive_hero.png') center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -774,7 +774,7 @@ fieldset[disabled] .btn-template-primary.active {
 .jumbotron h1,
 .jumbotron h2,
 .jumbotron h3 {
-  color: #ffffff;
+  color: #e65852;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }

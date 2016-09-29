@@ -11,7 +11,7 @@
 
                 <div class="container">
                     <div class="row mb-small">
-                        <div class="col-sm-12 text-center" style="background:rgba(0,0,0,0.1);">
+                        <div class="col-sm-10">
                             <h1>Brandskydd för <u>alla</u></h1>
                         </div>
                     </div>

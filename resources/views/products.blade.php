@@ -8,7 +8,6 @@
 				<div class="col-md-12">
 					<div class="heading text-center">
 						<h2>BRANDSLÄCKARVAGN <b>EASYEXTINGUISH</b></h2>
-						<p style="font-weight:bold;">När olyckan är framme ska en brandsläckare snabbt och enkelt kunna förflyttas till den plats där den behövs. Men för en del människor kan en brandsläckare vara för tung för att dom ska kunna göra en snabb insats. EasyExtinguish är en brandsläckarvagn som tack vare dess smarta konstruktion underlättar hanteringen för dessa människor.</p>
 					</div>
 				</div>
 			</div>
@@ -18,63 +17,31 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8">
-					<p>EasyExtinguish brandsläckarvagn kompletterar den vanliga brandsläckaren och gör det möjligt även för exempelvis äldre, barn och personer med funktionshinder att ingripa vid en eventuell brand. Förutom de praktiska fördelarna, ger produkten en skön trygghetskänsla för dessa personer med vetskapen att även de kan rädda liv.</p>
-					<p>Brandsläckaren ställs på vagnen och spänns fast med ett kraftigt justerband, därefter monteras den på väggen.</p>
-					<blockquote>
-						<p>Tack vare den smarta väggupphängningen kan den med minimal kraft tas ner från väggen. Vagnen knäpps enkelt upp varpå vagn och släckare med hävstångseffekt rör sig ner till golvet. Därefter kan man rulla brandsläckaren framför eller bakom sig till den plats där den behövs.</p>
-					</blockquote>
-					<p>Vagnen är försedd med fyra stycken lättrullade gummihjul som tål tuffa tag. De rullar enkelt över allt från klinkergolv till heltäckningsmattor. Vagnen passar olika släckartyper och modeller tack vare att infästningen i vagnen är universell.</p>
-			
-					<h3>Teknisk information</h3>
+					<h3>Bakgrund</h3>
+					<p>I de  esta affärer, offentliga byggnader, sjukhus, hotell mm  nns
+idag brandsläckare i syfte att ALLA snabbt ska kunna släcka en brand För att effektivt kunna släcka en brand krävs att man har tillgång till en 9L brandsläckare (räddningstjänst- och branschrekommendation).</p>
+					<h3>Utmaning</h3>
+						<p>Räddningstjänsten har länge under sina utbildningar uppmärksammat att handbrandsläckare är för tunga för en del människor.
+En 9 L handbrandsläckare väger upp mot 15 kg. Det  nns en utmaning för främst barn, äldre och personer med funktionsnedsättning att snabbt och säkert släcka en brand vilket medför att säkerheten och brandskyddet inte är lika för ALLA.
+Fram till nu har det inte funnits någon bra och säker lösning på denna utmaning.</p>
 
-					<table class="table">
-						<thead>
-							<tr>
-								<th>Namn</th>
-								<th>Art.nr</th>
-								<th>Vikt (exkl. brandsläckare)</th>
-								<th>Produktblad</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>EasyExtinguish</td>
-								<td>326041</td>
-								<td>3,3 kg</td>
-								<td><a href="/files/easyextinguish_prodblad.pdf">Ladda ner</a></td>
-							</tr>
-						</tbody>
-					</table>
-					<hr/>
-					<table class="table">
-						<thead>
-							<tr>
-								<th></th>
-								<th>Infällt handtag</th>
-								<th>Utfällt handtag</th>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>Höjd</td>
-								<td>72 cm</td>
-								<td>92 cm</td>
-							</tr>
-							<tr>
-								<td>Bredd</td>
-								<td>19 cm</td>
-								<td>19 cm</td>
-							</tr>
-							<tr>
-								<td>Djup</td>
-								<td>19 cm</td>
-								<td>19 cm</td>
-							</tr>
-						</tbody>
-					</table>
+					<h3>Lösning</h3>
+					<p>Lösningen är den mobila upphängningsanordningen EasyExtinguish.
+Det är en vagn som hänger på väggen tillsammans med brandsläckaren. Genom en smart design så får man enkelt och snabbt med sig handbrand- släckaren till branden utan att lyfta eller bära.</p>
+					<br>
+
+					<p><b>Ökar säkerheten<b> – ALLA kan snabbt agera vid brand</p>
+					<p><b>Ökar tillgängligheten<b>  – ALLA kan använda handbrandsläckaren
+oavsett ålder, kön och funktionsnedsättning</p>
+
+<p><b>Säkerställer släckförmåga<b> – ALLA kan få med sig 9 L släckmedel vilket krävs för att släcka en nyligen startad brand</p>
+
+	<p><b>
+Bygger ditt varumärke<b> – visar att du gör allt du kan för att öka säkerheten för din personal och dina kunder.</p>
+
 				</div>
 				<div class="col-md-4">
-					<img src="img/skumslackare.jpg">
+					<img src="img/vagn.png">
 				</div>
 			</div>
 		</div>

@@ -20,19 +20,9 @@
                         		<div class="col-md-12">
                         		<!--	<img src="img/hero2_cropped.jpg" width="300" class="img-responsive img-circle"> -->
                         		</div>
-                        		<div class="col-md-12">
-                        			<h3>Släck med förtroende</h3>
-                        			<p>Vår produkt <b>EasyExtinguish</b> kommer att hjälpa dig och alla potentiella användare att släcka en brand.</p>
-                        			<p>I ett stort bostadshus, liten lägenhet, offentliga rum och annat har nu högst troligtvis en brandsläckare som inte är anpassad för alla. Med bara en så enkel lösning som vår produkt kan alla använda en brandsläckare.</p>
-                        		</div>
+
                         	</div>
-                        	<div class="row">
-                        		<h3>Tillvägagångssätt</h3>
-                        		<p>När du bestämt dig för att ta kontakt med oss, fyll minst i de fält som är markerade med stjärna (*) och klicka sedan på "Skicka offert".</p>
-                        		<p>Så snart vi kan återkommer vi till dig med ett prisförslag baserat på de uppgifter du lämnat till oss.
-                        			Därefter får du gå igenom vårt förslag och återkomma vare sig du är nöjd eller inte. Vi är inte sena med att mottaga andra förslag eller idéer, det viktiga är att vi kommer överens.</p>
-                        	</div>
-													<a href="mailto:info@progressivesafety.se?Subject=Hello%20again" class="btn btn-small btn-template-main">Skicka meddelande</a>
+												<center>	<a href="mailto:info@progressivesafety.se?Subject=Hello%20again" class="btn btn-small btn-template-main">Skicka meddelande</a></center>
 
                         </div>
                     <!--     <div class="col-md-6">

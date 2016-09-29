@@ -12,14 +12,21 @@
 					</div>
 				</div>
 			</div>
-			<div class="row">
-				<div class="col-md-12">
-					<center>
-						<iframe src="https://www.youtube.com/embed/mcBT_OAUVcM" style="min-width: 960px; min-height:540px;" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-					</center>
-				</div>
-			</div>
 		</div>
-	</section>
+<br>
+
+	<div class="container">
+	    <div class="row">
+	        <div class="col-md-12">
+	            <div class="vid">
+	                <iframe width="560" height="315" src="//www.youtube.com/embed/mcBT_OAUVcM" allowfullscreen=""></iframe>
+	            </div><!--./vid -->
+
+	        </div><!--.col -->
+
+	    </div><!--./row -->
+
+	</div><!--./container -->
+</section>
 
 @endsection

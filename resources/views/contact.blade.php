@@ -3,7 +3,7 @@
 @section('content')
 
 	<section>
-        	<div id="map" class="with-border"></div>
+        	<div id="contactUsMap" class="big-map"></div>
     </section>
 
     <div id="content">
@@ -135,12 +135,34 @@
 @endsection
 
 @section('script')
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+
 	<!-- gmaps -->
+  <script type="text/javascript">
+      var parallax_map;
+      $().ready(function(){
+          responsive = $(window).width();
 
-    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=true"></script>
+          examples.initContactUsMap();
 
-    <script src="js/gmaps.js"></script>
-    <script src="js/gmaps.init.js"></script>
+          if (responsive >= 768){
+              parallax_map = $('.parallax').find('.big-map');
 
-    <!-- gmaps end -->
+              $(window).on('scroll',function(){
+                  parallax();
+                  gsdk.checkScrollForTransparentNavbar();
+              });
+          }
+
+      });
+
+     var parallax = function() {
+          var current_scroll = $(this).scrollTop();
+
+          oVal = ($(window).scrollTop() / 3);
+          parallax_map.css('top',oVal);
+      };
+
+  </script>
 @endsection

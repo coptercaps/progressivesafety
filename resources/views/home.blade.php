@@ -10,7 +10,7 @@
       <div class="background-img">
         <div class="container">
           <div class="row">
-            <div class="col-md-8 col-md-middle">
+            <div class="col-md-8 col-md-middle" style="padding-top: 150px;">
               <h1>Brandsläckare för alla.</h1>
               <p>
                 <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar säkerheten – alla kan snabbt agera vid brand
@@ -252,7 +252,7 @@
                                         </p>
                                     </div>
                                 </div>
-    
+
 
                             </div>
 

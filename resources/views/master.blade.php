@@ -281,6 +281,11 @@ _________________________________________________________ -->
     <!-- owl carousel -->
     <script src="js/owl.carousel.min.js"></script>
 
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+
+    <script src="js/gmaps.js"></script>
+    <script src="js/gmaps.init.js"></script>
+
 
     @yield('script')
 

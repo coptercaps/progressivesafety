@@ -1,11 +1,10 @@
 @extends('master')
 
 @section('content')
-<!--
+
 	<section>
         	<div id="map" class="with-border"></div>
     </section>
--->
 
     <div id="content">
         <div class="container" id="contact">
@@ -20,9 +19,9 @@
                             <h2>Vi finns här för idéer, tankar och funderingar</h2>
                         </div>
 
-                  <!--      <p>Vänligen kontakta oss när och hur du vill via kontaktformen så återkommer vi så snart vi bara kan.</p>
+                   <p>Vänligen kontakta oss när och hur du vill via kontaktformen så återkommer vi så snart vi bara kan.</p>
 
-                      <!-  <div class="heading">
+                    <div class="heading">
                             <h3>Kontaktformulär</h3>
                         </div>
 
@@ -92,15 +91,13 @@
                             </div>
                             <!-- /.row -->
                         </form>
-												<div class="col-sm-12 text-center">
-															<a href="mailto:info@progressivesafety.se?Subject=Hello%20again" class="btn btn-small btn-template-main">Skicka meddelande</a>
-												</div>
+
                     </div>
 
                     <div class="col-md-4">
 
 
-                        <h3 class="text-uppercase">Adress</h3>
+                      <h3 class="text-uppercase">Adress</h3>
 
                         <p>Gjuterigatan 9
                             <br>553 18 Jönköping

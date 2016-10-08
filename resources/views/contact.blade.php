@@ -2,10 +2,6 @@
 
 @section('content')
 
-	<section>
-
-    </section>
-
     <div id="content">
         <div class="container" id="contact">
         	@if (session('status'))

@@ -11,103 +11,45 @@
                             <p>Vänligen fyll i formulär så återkommer vi med prisinformation.</p>
                         </div>
 
-                        @if (session('status'))
-                        	{!! session('status') !!}
-                        @endif
+												<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//progressivesafety.us14.list-manage.com/subscribe/post?u=19e2ccfa1b59d5dc58fed4da0&amp;id=c56d6f9a44" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">E-postadress  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">Förnamn </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
 
-                        <div class="col-md-12">
-                        	<div class="row">
-                        		<div class="col-md-12">
-                        		<!--	<img src="img/hero2_cropped.jpg" width="300" class="img-responsive img-circle"> -->
-                        		</div>
+</div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE5">Antal och övriga upplysningar </label>
+	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_19e2ccfa1b59d5dc58fed4da0_c56d6f9a44" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='MMERGE3';ftypes[3]='dropdown';fnames[4]='MMERGE4';ftypes[4]='address';fnames[5]='MMERGE5';ftypes[5]='text'; }(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
 
-                        	</div>
-												<center>	<a href="mailto:info@progressivesafety.se?Subject=Hello%20again" class="btn btn-small btn-template-main">Skicka meddelande</a></center>
 
-                        </div>
-                    <!--     <div class="col-md-6">
-
-                  <form method="post">
-                        		{!! csrf_field() !!}
-                        		<div class="form-group {{ $errors->has('name') ? 'has-error' : '' }}">
-                        			<label>Namn / Företagsnamn *</label>
-                        			<input type="text" class="form-control" name="name" value="{{ old('name') }}">
-                        			@if ($errors->has('name'))
-                        				<span class="help-block">
-                        					<strong>{{ $errors->first('name') }}</strong>
-                        				</span>
-                        			@endif
-                        		</div>
-
-                        		<div class="form-group {{ $errors->has('email') ? 'has-error' : '' }}">
-                        			<label>Email *</label>
-                        			<input type="email" class="form-control" name="email" value="{{ old('email') }}">
-                        			@if ($errors->has('email'))
-                        				<span class="help-block">
-                        					<strong>{{ $errors->first('email') }}</strong>
-                        				</span>
-                        			@endif
-                        		</div>
-
-                        		<div class="form-group {{ $errors->has('address') ? 'has-error' : '' }}">
-                        			<label>Adress</label>
-                        			<input type="text" class="form-control" name="address" value="{{ old('address') }}">
-                        			@if ($errors->has('address'))
-                        				<span class="help-block">
-                        					<strong>{{ $errors->first('address') }}</strong>
-                        				</span>
-                        			@endif
-                        		</div>
-
-                        		<div class="form-group {{ $errors->has('postal_number') ? 'has-error' : '' }}">
-                        			<label>Postnummer</label>
-                        			<input type="text" class="form-control" name="postal_number" value="{{ old('postal_number') }}">
-                        			@if ($errors->has('postal_number'))
-                        				<span class="help-block">
-                        					<strong>{{ $errors->first('postal_number') }}</strong>
-                        				</span>
-                        			@endif
-                        		</div>
-
-                        		<div class="form-group {{ $errors->has('city') ? 'has-error' : '' }}">
-                        			<label>Stad</label>
-                        			<input type="text" class="form-control" name="city" value="{{ old('city') }}">
-                        			@if ($errors->has('city'))
-                        				<span class="help-block">
-                        					<strong>{{ $errors->first('city') }}</strong>
-                        				</span>
-                        			@endif
-                        		</div>
-                        		<hr/>
-                        		<div class="form-group {{ $errors->has('number_of_items') ? 'has-error' : '' }}">
-                        			<label>Antal</label>
-                        			<select name="number_of_items" class="form-control">
-                        				@foreach($items as $item)
-                        					<option value="{!! $item !!}">{!! $item !!}</option>
-                        				@endforeach
-                        			</select>
-                        			@if ($errors->has('number_of_items'))
-                        				<span class="help-block">
-                        					<strong>{{ $errors->first('number_of_items') }}</strong>
-                        				</span>
-                        			@endif
-                        		</div>
-
-                        		<div class="form-group {{ $errors->has('other') ? 'has-error' : '' }}">
-                        			<label>Övriga upplysningar</label>
-									<textarea name="other" class="form-control">{{ old('other') }}</textarea>
-                        			@if ($errors->has('other'))
-                        				<span class="help-block">
-                        					<strong>{{ $errors->first('other') }}</strong>
-                        				</span>
-                        			@endif
-                        		</div>
-
-                        		<input type="submit" class="btn btn-danger btn-block" value="Skicka">
-                        	</form> -->
-                        </div>
-
-                        <!-- /.owl-carousel -->
                     </div>
                 </div>
             </div>

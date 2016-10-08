@@ -42,18 +42,18 @@
 
                                         </div>
 																				<ul>
-																						<li>Ökad säkerhet – ALLA kan snabbt agera vid brand</li>
-																						<li>Ökad tillgänglighet – ALLA kan använda handbrandsläckaren oavsett ålder, kön och funktionsnedsättning</li>
-																						<li>Säkerställer släckförmåga – ALLA kan få med sig 9 L släckmedel vilket krävs för att släcka en nyligen startad brand</li>
-																						<li>Bygger ditt varumärke – visar att du gör allt du kan för att öka säkerheten för din personal och dina kunder.</li>
+																						<p><b>Ökad säkerhet</b> – ALLA kan snabbt agera vid brand</p>
+																						<p><b>Ökad tillgänglighet</b> – ALLA kan använda handbrandsläckaren oavsett ålder, kön och funktionsnedsättning</p>
+																						<p><b>Säkerställer släckförmåga</b> – ALLA kan få med sig 9 L släckmedel vilket krävs för att släcka en nyligen startad brand</p>
+																						<p><b>Bygger ditt varumärke</b> – visar att du gör allt du kan för att öka säkerheten för din personal och dina kunder.</p>
 
 																				</ul>
 
 
 
-                                        <p class="text-center">
-                                            <button type="submit" class="btn btn-template-main"></i> Betsäll</button>
-                                            </button>
+                                      <p class="text-center">
+                                          <a href="http://eepurl.com/cjbtmr"<button type="submit" class="btn btn-template-main" style="font-size: 18px;"></i> Beställ här</button>
+                                            </button></a>
                                         </p>
 
                                     </form>

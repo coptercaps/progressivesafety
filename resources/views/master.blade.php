@@ -125,7 +125,7 @@
                                     <a class="nav-link" href="/contact">Kontakt</a>
                                 </li>
                                 <li class="nav-item {{ Request::is('order') ? 'active' : '' }}" style="background:#ed1b12;">
-                                  <a class="nav-link" href="/order" style="color:white;">Beställ</a>
+                                  <a class="nav-link" href="http://eepurl.com/cjbtmr" style="color:white;">Beställ</a>
                                 </li>
                             </ul>
 

@@ -1,11 +1,17 @@
-#heading-breadcrumbs h1
-
+h1 {
+    font-size: 56px;
+}
 
 h2 {
   font-size: 4rem;
 }
 h5 {
   font-size: 1,8rem;
+}
+p {
+    margin: 0 0 10px;
+    font-size: 21px;
+    margin-bottom: 10px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -25,4 +31,10 @@ h5 {
     left: 0;
     width: 100%;
     height: 100%;
+}
+.background-img {
+    background:#fff; /*linear-gradient(rgba(114,80,172,0.6),rgba(114,80,172,0.6)),url(../img/Layer2.cb699b4ea4e8.png);*/
+    color: #333;
+    padding-top: 15rem;
+    padding-bottom: 0rem;
 }

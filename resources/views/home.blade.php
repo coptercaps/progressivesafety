@@ -1,45 +1,44 @@
 @extends('master')
 
 @section('content')
-    <section class="no-mb">
-            <!-- *** JUMBOTRON ***
- _________________________________________________________ -->
 
-            <div class="jumbotron">
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
 
-                <div class="dark-mask"></div>
+  <div class="carousel-inner" role="listbox">
+    <div class="carousel-item active">
 
-                <div class="container">
-                    <div class="row mb-small">
-                        <div class="col-sm-10">
-                            <h1>Brandskydd för <u>alla</u></h1>
-                        </div>
-                    </div>
-
-                    <!-- <div class="row">
-
-                        <div class="col-sm-6 text-center-xs">
-                            <p class="text-uppercase">Business. Corporate. Agency.
-                                <br />Portfolio. Blog. E-commerce.
-                                <br />We have covered everything.</p>
-                            <p>See our current packages comparison
-                                <br />to choose the right one for you.</p>
-                            <p><a href="#packages" class="scroll-to btn btn-template-transparent-black">See packages</a>
-                            </p>
-
-                        </div>
-                    </div> -->
-                </div>
+      <div class="background-img">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 col-md-middle">
+              <h1>Brandsläckare för alla.</h1>
+              <p>
+                <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar säkerheten – alla kan snabbt agera vid brand
+              </p>
+              <p>
+                <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar snabbheten – alla kan snabbt och smidigt rulla fram släckaren till branden
+              </p>
+              <p>
+                <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar snabbheten – alla kan snabbt och smidigt rulla fram släckaren till branden
+              </p>
             </div>
+            <div class="col-md-4">
+              <img src="img/Brandsläckarvagn.png" class="img-fluid hidden-md-down">
+            </div>
+          </div>
+        </div>
+      </div>
 
-            <!-- *** JUMBOTRON END *** -->
-        </section>
+    </div>
+
+  </div>
+</div>
 
         <section class="bar no-mb color-white text-center" style="background:#e65852;">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <h1>Vår affärsidé</h1>
+                        <h3 class="text-uppercase">Vår affärsidé</h3>
                         <p class="lead">Progressive Safety är ett svenskt bolag som utvecklar livsavgörande hjälpmedel inom området brandskydd.<center></p>
                     </div>
                 </div>

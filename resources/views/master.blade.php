@@ -112,7 +112,7 @@
                                   <a class="nav-link" href="/">Hem</a>
                                 </li>
                                 <li class="nav-item {{ Request::is('products*') ? 'active' : '' }}">
-                                  <a class="nav-link" href="/products">Produkter</a>
+                                  <a class="nav-link" href="/produkter">Produkter</a>
                                 </li>
                                 <li class="nav-item {{ Request::is('how-it-works') ? 'active' : '' }}">
                                   <a class="nav-link" href="/how-it-works">Så funkar det</a>
@@ -122,7 +122,7 @@
                                 </li>
                             -->
                                 <li class="nav-item {{ Request::is('contact') ? 'active' : '' }}">
-                                    <a class="nav-link" href="/contact">Kontakt</a>
+                                    <a class="nav-link" href="/kontakt">Kontakt</a>
                                 </li>
                                 <li class="nav-item {{ Request::is('order') ? 'active' : '' }}" style="background:#ed1b12;">
                                   <a class="nav-link" href="http://eepurl.com/cjbtmr" style="color:white;">Beställ</a>
@@ -230,7 +230,7 @@ _________________________________________________________ -->
                         <br>553 18 Jönköping
                     </p>
 
-                    <a href="/contact" class="btn btn-small btn-template-main">Gå till kontaktsida</a>
+                    <a href="/kontakt" class="btn btn-small btn-template-main">Gå till kontaktsida</a>
 
                     <hr class="hidden-md hidden-lg hidden-sm">
 

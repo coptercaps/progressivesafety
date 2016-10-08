@@ -17,8 +17,8 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/products', function() {
-	return view('products');
+Route::get('/produkter', function() {
+	return view('produkter');
 });
 
 Route::get('/how-it-works', function() {
@@ -30,12 +30,12 @@ Route::get('/customers', function() {
 });
 
 // Using controller to handle post
-Route::get('/contact', 'ContactController@index');
-Route::post('/contact', 'ContactController@send');
+Route::get('/kontakt', 'ContactController@index');
+Route::post('/kontakt', 'ContactController@send');
 
 // Using controller to handle post
-Route::get('/order', 'OrderController@index');
-Route::post('/order', 'OrderController@send');
+Route::get('/bestall', 'OrderController@index');
+Route::post('/bestall', 'OrderController@send');
 
 
 
@@ -58,4 +58,7 @@ Route::get('/media', function() {
 
 Route::get('/resellers', function() {
 	return view('resellers');
+});
+Route::get('/kontakt', function() {
+	return view('kontakt');
 });

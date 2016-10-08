@@ -4,9 +4,7 @@
 
     <div id="content">
         <div class="container" id="contact">
-        	@if (session('status'))
-        		{!! session('status') !!}
-        	@endif
+
             <section>
                 <div class="row">
                     <div class="col-md-8">
@@ -92,37 +90,4 @@
     </div>
     <!-- /#content -->
 
-@endsection
-
-@section('script')
-
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
-
-	<!-- gmaps -->
-  <script type="text/javascript">
-      var parallax_map;
-      $().ready(function(){
-          responsive = $(window).width();
-
-          examples.initContactUsMap();
-
-          if (responsive >= 768){
-              parallax_map = $('.parallax').find('.big-map');
-
-              $(window).on('scroll',function(){
-                  parallax();
-                  gsdk.checkScrollForTransparentNavbar();
-              });
-          }
-
-      });
-
-     var parallax = function() {
-          var current_scroll = $(this).scrollTop();
-
-          oVal = ($(window).scrollTop() / 3);
-          parallax_map.css('top',oVal);
-      };
-
-  </script>
 @endsection

@@ -191,7 +191,7 @@ _________________________________________________________ -->
             <div class="container">
                 <div class="col-md-3 col-sm-6">
                     <h4>Affärsidé</h4>
-                    <p>Progressive Safety är ett svenskt bolag som utvecklar livsavgörande hjälpmedel inom området brandskydd.</p>
+                      <p style="font-size: 1.4rem;">Progressive Safety är ett svenskt bolag som utvecklar livsavgörande hjälpmedel inom området brandskydd. </p>
 
                     <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -225,7 +225,7 @@ _________________________________________________________ -->
 
                     <h4>Kontakt</h4>
 
-                    <p><strong>Progressive Safety</strong>
+                    <p style="font-size: 1.4rem;" <strong>Progressive Safety</strong>
                         <br>Gjuterigatan 9
                         <br>553 18 Jönköping
                     </p>

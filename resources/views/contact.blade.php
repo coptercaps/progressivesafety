@@ -3,7 +3,7 @@
 @section('content')
 
 	<section>
-        	<div id="contactUsMap" class="big-map"></div>
+
     </section>
 
     <div id="content">

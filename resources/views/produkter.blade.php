@@ -11,12 +11,7 @@
 		    _________________________________________________________ -->
 
                     <div class="col-md-9">
-											<div>
-												<h2>BRANDSLÄCKARVAGN <b>EASYEXTINGUISH</b></h2>
-											</div>
 
-                        <p class="lead">I de  flesta affärer, offentliga byggnader, sjukhus, hotell mm finns idag brandsläckare i syfte att alla snabbt ska kunna släcka en brand För att effektivt kunna släcka en brand krävs att man har tillgång till en 9L brandsläckare (räddningstjänst- och branschrekommendation).
-                        </p>
                         <div class="row" id="productMain">
                             <div class="col-sm-6">
                                 <div id="mainImage">
@@ -37,7 +32,7 @@
                                     <form>
                                         <div class="sizes">
 
-                                            <h3>BRANDSLÄCKARVAGNEN SKAPAR</h3>
+                                            <h3>BRANDSLÄCKARVAGN <b>EASYEXTINGUISH</h3>
 
 
                                         </div>
@@ -52,7 +47,7 @@
 
 
                                       <p class="text-center">
-                                          <a href="http://eepurl.com/cjbtmr"<button type="submit" class="btn btn-template-main" style="font-size: 18px;"></i> Beställ här</button>
+                                          <a href="http://eepurl.com/cjbtmr"<button type="submit" class="btn btn-template-main" style="font-size: 15px;"></i> Beställ här</button>
                                             </button></a>
                                         </p>
 
@@ -82,7 +77,9 @@
 
 
                         <div class="box" id="details">
+													<h4>Bakgrund</h4>
                             <p>
+															I de  flesta affärer, offentliga byggnader, sjukhus, hotell mm finns idag brandsläckare i syfte att alla snabbt ska kunna släcka en brand För att effektivt kunna släcka en brand krävs att man har tillgång till en 9L brandsläckare (räddningstjänst- och branschrekommendation).
 														</p><h4>Utmaningar</h4>
                                 <p>Räddningstjänsten har länge under sina utbildningar uppmärksammat att handbrandsläckare är för tunga för en del människor. En 9 L handbrandsläckare väger upp mot 15 kg. Det nns en utmaning för främst barn, äldre och personer med funktionsnedsättning att snabbt och säkert släcka en brand vilket medför att säkerheten och brandskyddet inte är lika för ALLA. Fram till nu har det inte funnits någon bra och säker lösning på denna utmaning.</p>
                                 <h4>Lösning</h4>
@@ -98,6 +95,7 @@
             </div>
             <!-- /.container -->
         </div>
+				</div>
 
 	<section>
 

@@ -17,78 +17,42 @@
 
                    <p>Vänligen kontakta oss när och hur du vill via kontaktformen så återkommer vi så snart vi bara kan.</p>
 
-                    <div class="heading">
-                            <h3>Kontaktformulär</h3>
-                        </div>
-
-                        <form method="post">
-                        	{!! csrf_field() !!}
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <div class="form-group {{ $errors->has('firstname') ? 'has-error' : '' }}">
-                                        <label for="firstname">Förnamn *</label>
-                                        <input type="text" class="form-control" name="firstname" value="{{ old('firstname') }}">
-                                        @if ($errors->has('firstname'))
-			                                <span class="help-block">
-			                                    <strong>{{ $errors->first('firstname') }}</strong>
-			                                </span>
-			                            @endif
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group {{ $errors->has('lastname') ? 'has-error' : '' }}">
-                                        <label for="lastname">Efternamn *</label>
-                                        <input type="text" class="form-control" name="lastname" value="{{ old('lastname') }}">
-                                        @if ($errors->has('lastname'))
-			                                <span class="help-block">
-			                                    <strong>{{ $errors->first('lastname') }}</strong>
-			                                </span>
-			                            @endif
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group {{ $errors->has('email') ? 'has-error' : '' }}">
-                                        <label for="email">Email *</label>
-                                        <input type="text" class="form-control" name="email" value="{{ old('email') }}">
-                                        @if ($errors->has('email'))
-			                                <span class="help-block">
-			                                    <strong>{{ $errors->first('email') }}</strong>
-			                                </span>
-			                            @endif
-                                    </div>
-                                </div>
-                                <div class="col-sm-6">
-                                    <div class="form-group {{ $errors->has('subject') ? 'has-error' : '' }}">
-                                        <label for="subject">Ämne *</label>
-                                        <input type="text" class="form-control" name="subject" value="{{ old('subject') }}">
-                                        @if ($errors->has('subject'))
-			                                <span class="help-block">
-			                                    <strong>{{ $errors->first('subject') }}</strong>
-			                                </span>
-			                            @endif
-                                    </div>
-                                </div>
-                                <div class="col-sm-12">
-                                    <div class="form-group {{ $errors->has('message') ? 'has-error' : '' }}">
-                                        <label for="message">Meddelande *</label>
-                                        <textarea name="message" class="form-control">{{ old('message') }}</textarea>
-                                        @if ($errors->has('message'))
-			                                <span class="help-block">
-			                                    <strong>{{ $errors->first('message') }}</strong>
-			                                </span>
-			                            @endif
-                                    </div>
-                                </div>
-
-                                <div class="col-sm-12 text-center">
-                                    <button type="submit" class="btn btn-template-main"><i class="fa fa-envelope-o"></i> Skicka meddelande</button>
-
-                                </div>
-                            </div>
-                            <!-- /.row -->
-                        </form>
-
-                    </div>
+                   <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+ #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+ /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//progressivesafety.us14.list-manage.com/subscribe/post?u=19e2ccfa1b59d5dc58fed4da0&amp;id=d8dd995159" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+   <div id="mc_embed_signup_scroll">
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+ <label for="mce-EMAIL">E-post  <span class="asterisk">*</span>
+</label>
+ <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+ <label for="mce-FNAME">Förnamn </label>
+ <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+ <label for="mce-MMERGE3">Meddelande </label>
+ <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3">
+</div>
+ <div id="mce-responses" class="clear">
+   <div class="response" id="mce-error-response" style="display:none"></div>
+   <div class="response" id="mce-success-response" style="display:none"></div>
+ </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_19e2ccfa1b59d5dc58fed4da0_d8dd995159" tabindex="-1" value=""></div>
+   <div class="clear"><input type="submit" value="Skicka meddelande" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+   </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[3]='MMERGE3';ftypes[3]='text'; }(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+</div>
 
                     <div class="col-md-4">
 

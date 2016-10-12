@@ -70,7 +70,10 @@
                                             <img src="img/Brandsläckarvagn3.png" alt="" class="img-responsive">
                                         </a>
                                     </div>
+
                                     <div class="col-xs-4">
+                                      <br>
+                                      <br>
                                         <a href="img/Brandsläckarvagn3.png" class="thumb">
                                             <img src="img/finalist.png" alt="" class="img-responsive">
                                         </a>

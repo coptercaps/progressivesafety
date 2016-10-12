@@ -45,6 +45,7 @@
             </div>
         </section>
 
+
   <!--      <section class="bar background-pentagon no-mb">
             <div class="container">
                 <div class="row">
@@ -161,6 +162,27 @@
                 </div>
             </div>
         </section>
+
+<!--
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+  <div class="carousel-inner" role="listbox">
+    <div class="carousel-item active">
+
+      <div id="projekt">
+        <div class="container">
+          <div class="row">
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</div>
+-->
         <!-- /.bar -->
 
         <section class="bar background-image-fixed-2 no-mb color-white text-center">
@@ -179,7 +201,7 @@
             </div>
         </section>
 
-        </section>
+
       <!--  <section class="bar background-white no-mb">
             <div class="container animated fadeInUpBig" data-animate="fadeInUpBig" style="opacity: 0;">
                 <div class="row">

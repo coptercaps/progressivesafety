@@ -32,7 +32,7 @@
                                     <form>
                                         <div class="sizes">
 
-                                            <h3>BRANDSLÄCKARVAGN <b>EASYEXTINGUISH</h3>
+                                            <h3>BRANDSLÄCKARVAGN EASYEXTINGUISH</h3>
 
 
                                         </div>
@@ -68,6 +68,11 @@
                                     <div class="col-xs-4">
                                         <a href="img/Brandsläckarvagn3.png" class="thumb">
                                             <img src="img/Brandsläckarvagn3.png" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="col-xs-4">
+                                        <a href="img/Brandsläckarvagn3.png" class="thumb">
+                                            <img src="img/finalist.png" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>

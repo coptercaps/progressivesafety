@@ -14,7 +14,7 @@
     <script type="text/javascript" src="js/pace.min.js"></script>
     <link rel="stylesheet" type="text/css" href="css/pace.css">
 
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet"> type='text/css'>
     <!-- Bootstrap and Font Awesome css -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
@@ -191,7 +191,7 @@ _________________________________________________________ -->
             <div class="container">
                 <div class="col-md-3 col-sm-6">
                     <h4>Affärsidé</h4>
-                      <p style="font-size: 1.4rem;">Progressive Safety är ett svenskt bolag som utvecklar livsavgörande hjälpmedel inom området brandskydd. </p>
+                      <p>Progressive Safety är ett svenskt bolag som utvecklar livsavgörande hjälpmedel inom området brandskydd. </p>
 
                     <hr class="hidden-md hidden-lg hidden-sm">
 
@@ -203,7 +203,7 @@ _________________________________________________________ -->
                     <h4 class="inverse-red">Företaget</h4>
               <!--      <h5><a href="/team" class="inverse">Team</a></h5>
                     <h5><a href="/our-story" class="inverse">Vår Story</a></h5> -->
-                    <h5><a href="/media" class="inverse">Press</a></h5>
+                    <p><a href="/media" class="inverse">Press</a></p>
 
                 </div>
 
@@ -212,10 +212,10 @@ _________________________________________________________ -->
                 <div class="col-md-3 col-sm-6">
 
                     <h4 class="inverse-red">Återförsäljare</h4>
-                    <h5><a href="http://www.presto.se" class="inverse">Presto Brandsäkerhet AB</a></h5>
-                    <h5><a href="http://www.dafo.se" class="inverse">Dafo Brand</a></h5>
-                    <h5><a href="http://www.kidde.se" class="inverse">Kidde Sweden AB</a></h5>
-                    <h5><a href="/resellers" class="inverse">Mer...</a></h5>
+                    <p><a href="http://www.presto.se" class="inverse">Presto Brandsäkerhet AB</a></p>
+                    <p><a href="http://www.dafo.se" class="inverse">Dafo Brand</a></p>
+                    <p><a href="http://www.kidde.se" class="inverse">Kidde Sweden AB</a></p>
+                    <p><a href="/resellers" class="inverse">Mer...</a></p>
 
                 </div>
 
@@ -225,9 +225,9 @@ _________________________________________________________ -->
 
                     <h4>Kontakt</h4>
 
-                    <p style="font-size: 1.4rem;" <strong>Progressive Safety</strong>
-                        <br>Gjuterigatan 9
-                        <br>553 18 Jönköping
+                    <p> Progressive Safety
+                        Gjuterigatan 9
+                        553 18 Jönköping
                     </p>
 
                     <a href="/kontakt" class="btn btn-small btn-template-main">Gå till kontaktsida</a>

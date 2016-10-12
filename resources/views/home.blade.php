@@ -11,12 +11,12 @@
         <div class="container">
           <div class="row">
             <div class="col-md-8 col-md-middle" style="padding-top: 30px;">
-              <h1>Brandsläckare för alla.</h1>
+              <h1>Brandskydd tillgängligt för alla.</h1>
               <p>
                 <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar säkerheten – alla kan snabbt agera vid brand
               </p>
               <p>
-                <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar snabbheten – alla kan snabbt och smidigt rulla fram släckaren till branden
+                <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar tillgängligheten – alla kan använda handbrandsläckaren
               </p>
               <p>
                 <i class="fa fa-check-circle" style="color:#e65852" ;=""></i> Ökar snabbheten – alla kan snabbt och smidigt rulla fram släckaren till branden

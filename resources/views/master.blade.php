@@ -92,8 +92,8 @@
                     <div class="container">
                         <div class="navbar-header">
                             <a class="navbar-brand" href="/">
-                                <img src="img/200@px.svg" alt="" class="hidden-xs hidden-sm">
-                                <img src="img/200@px.svg" alt="" class="visible-xs visible-sm"><span class="sr-only">Universal - go to homepage</span>
+                                <img src="img/150@px.svg" alt="" class="hidden-xs hidden-sm">
+                                <img src="img/150@px.svg" alt="" class="visible-xs visible-sm"><span class="sr-only">Universal - go to homepage</span>
 
                             </a>
                             <div class="navbar-buttons">

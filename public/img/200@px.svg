@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="48px" viewBox="0 0 183 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M106.388723,38.0121417 C106.784672,37.5973785 107.569349,37.2611465 108.145433,37.2611465 L175.792823,37.2611465 C176.367078,37.2611465 177.159466,37.6092928 177.543462,38.0287722 C177.543462,38.0287722 183.246073,43.9337779 183.246073,47.093949 C183.246073,50.4889796 177.555843,56.1697841 177.555843,56.1697841 C177.156409,56.5878457 176.368907,56.9267516 175.792823,56.9267516 L108.145433,56.9267516 C107.571178,56.9267516 106.770196,56.5885016 106.376104,56.1799705 C106.376104,56.1799705 100.52356,50.4585501 100.52356,47.093949 C100.52356,43.9033484 106.388723,38.0121417 106.388723,38.0121417 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="82.7225131" height="19.6656051" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-166.000000, -555.000000)">
+            <g id="Group" transform="translate(165.000000, 545.000000)">
+                <use id="Rectangle-2" stroke="#FF0000" mask="url(#mask-2)" stroke-width="2.09424084" xlink:href="#path-1"></use>
+                <text id="SAFETY-FOR-ALL" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="10.4712042" font-weight="normal" letter-spacing="-0.0209424073" fill="#FF0000">
+                    <tspan x="105.759162" y="50.366242">SAFETY FOR AL</tspan>
+                    <tspan x="171.036649" y="50.366242">L</tspan>
+                </text>
+                <text id="PROGRESSIVE" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="31.4136126" font-weight="normal" letter-spacing="-0.0628272196" fill="#FF0000">
+                    <tspan x="0" y="31">PROGRESSIV</tspan>
+                    <tspan x="168.314136" y="31">E</tspan>
+                </text>
+                <text id="SAFETY" fill="#4A4A4A" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="31.4136126" font-weight="normal" letter-spacing="-0.0628272196">
+                    <tspan x="0" y="56.8757962">SAFET</tspan>
+                    <tspan x="82.460733" y="56.8757962">Y</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

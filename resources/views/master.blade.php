@@ -133,10 +133,11 @@
                         <!--/.nav-collapse -->
                     </div>
 
-
+                    <div class="alert alert-info" style="property:value;" role="alert">
+                      <strong>Årets säkerhetslösning</strong> på Security Awards 2016. <a href="https://medium.com/progressivesafety/brandsl%C3%A4ckarvagnen-easyextinguish-vinner-%C3%A5rets-s%C3%A4kerhetsl%C3%B6sning-p%C3%A5-security-awards-2016-15894ece63da#.gf2kygw9j">Läs mer här.</a>
+                    </div>
                 </div>
                 <!-- /#navbar -->
-
 
         </header>
 

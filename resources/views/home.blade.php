@@ -185,7 +185,7 @@
 -->
         <!-- /.bar -->
 
-
+<!--
 <section class="bar background-white no-mb">
        <div class="container">
                 <div class="row">
@@ -253,6 +253,7 @@
                             </div>
 
                         </div>
+                      -->
 
 
                   <!--      <div class="see-more">

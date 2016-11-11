@@ -185,50 +185,28 @@
 -->
         <!-- /.bar -->
 
-        <section class="bar background-image-fixed-2 no-mb color-white text-center">
-            <div class="dark-mask"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <h3 class="text-uppercase">Vill du veta mer?</h3>
-                        <p class="lead">Vi har skapat en instruktionsvideo för att demonstrera en av våra smarta produkter.</p>
-                        <p class="text-center">
-                            <a href="/how-it-works" class="btn btn-template-transparent-black btn-lg">Så funkar det</a>
-                        </p>
-                    </div>
 
-                </div>
-            </div>
-        </section>
-
-
-      <!--  <section class="bar background-white no-mb">
-            <div class="container animated fadeInUpBig" data-animate="fadeInUpBig" style="opacity: 0;">
+<section class="bar background-white no-mb">
+       <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="heading text-center">
                             <h2>Nyheter</h2>
                         </div>
 
-                        <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-                            mi vitae est. Mauris placerat eleifend leo.</p>
-
-
-                        <div class="row portfolio">
+                      <div class="row portfolio">
                             <div class="col-sm-4">
                                 <div class="box-image">
                                     <div class="image">
-                                        <img src="img/portfolio-1.jpg" alt="" class="img-responsive">
+                                        <img src="img/portfolio-11.png" alt="" class="img-responsive">
                                     </div>
                                     <div class="bg"></div>
                                     <div class="name">
-                                        <h3><a href="portfolio-detail.html">Portfolio item</a></h3>
                                     </div>
                                     <div class="text">
-                                        <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
+                                        <p class="hidden-sm">Progressive Safety får rikstäckande genombrotts order från affärskedjan Kicks</p>
                                         <p class="buttons">
-                                            <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                            <a href="#" class="btn btn-template-transparent-primary">Website</a>
+                                            <a href="https://medium.com/@progressivesafety/progressive-safety-f%C3%A5r-rikst%C3%A4ckande-genombrotts-order-fr%C3%A5n-aff%C3%A4rskedjan-kicks-9ece9208bf3b#.ezvfalcqh" class="btn btn-template-transparent-primary">Läs mer</a>
                                         </p>
                                     </div>
                                 </div>
@@ -239,17 +217,15 @@
                             <div class="col-sm-4">
                                 <div class="box-image">
                                     <div class="image">
-                                        <img src="img/portfolio-2.jpg" alt="" class="img-responsive">
+                                        <img src="img/portfolio-10.png" alt="" class="img-responsive">
                                     </div>
                                     <div class="bg"></div>
                                     <div class="name">
-                                        <h3><a href="portfolio-detail.html">Portfolio item</a></h3>
                                     </div>
                                     <div class="text">
-                                        <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
+                                        <p class="hidden-sm">Årets säkerhetslösning på Security Awards 2016</p>
                                         <p class="buttons">
-                                            <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                            <a href="#" class="btn btn-template-transparent-primary">Website</a>
+                                            <a href="https://medium.com/progressivesafety/brandsl%C3%A4ckarvagnen-easyextinguish-vinner-%C3%A5rets-s%C3%A4kerhetsl%C3%B6sning-p%C3%A5-security-awards-2016-15894ece63da#.vy99pdgjh" class="btn btn-template-transparent-primary">Läs mer</a>
                                         </p>
                                     </div>
                                 </div>
@@ -260,17 +236,15 @@
                             <div class="col-sm-4">
                                 <div class="box-image">
                                     <div class="image">
-                                        <img src="img/portfolio-3.jpg" alt="" class="img-responsive">
+                                        <img src="img/portfolio-10.png" alt="" class="img-responsive">
                                     </div>
                                     <div class="bg"></div>
                                     <div class="name">
-                                        <h3><a href="portfolio-detail.html">Portfolio item</a></h3>
                                     </div>
                                     <div class="text">
                                         <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
                                         <p class="buttons">
-                                            <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                            <a href="#" class="btn btn-template-transparent-primary">Website</a>
+                                            <a href="#" class="btn btn-template-transparent-primary">Läs mer</a>
                                         </p>
                                     </div>
                                 </div>
@@ -281,26 +255,23 @@
                         </div>
 
 
-                        <div class="see-more">
+                  <!--      <div class="see-more">
                             <p>Do you want to see more?</p>
 
                             <a href="portfolio-4.html" class="btn btn-template-main">See more of our work</a>
                         </div>
+                    -->
 
                     </div>
-
                 </div>
-            </div>
+                </div>
         </section>
-
-      -->
-
-  <!--      <section class="bar background-gray no-mb">
+      <!--  <section class="bar background-gray no-mb">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="heading text-center">
-                            <h2>Några av våra kunder</h2>
+                            <h2>Pågående projekt</h2>
                         </div>
 
                         <ul class="owl-carousel customers">
@@ -325,15 +296,33 @@
                         </ul>
                     </div>
 
-                    <div class="row">
+                <div class="row">
                         <div class="col-md-12">
                             <div class="see-more">
                                 <a href="/customers" class="btn btn-template-main">Se fler Kunder här</a>
                             </div>
                         </div>
                     </div>
+                  -
                 </div>
             </div>
         </section>
-          -->
+      -->
+        <section class="bar background-image-fixed-2 no-mb color-white text-center">
+            <div class="dark-mask"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h3 class="text-uppercase">Vill du veta mer?</h3>
+                        <p class="lead">Vi har skapat en instruktionsvideo för att demonstrera en av våra smarta produkter.</p>
+                        <p class="text-center">
+                            <a href="/how-it-works" class="btn btn-template-transparent-black btn-lg">Så funkar det</a>
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
 @endsection

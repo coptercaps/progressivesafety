@@ -19,7 +19,7 @@
                                 </div>
 
                                 <div class="ribbon sale">
-                                    <div class="theribbon">Nominerade</div>
+                                    <div class="theribbon">Vinnare av årets säkerhetslösning” på Security Awards 2016</div>
                                     <div class="ribbon-background"></div>
                                 </div>
                                 <!-- /.ribbon -->
@@ -75,7 +75,7 @@
                                       <br>
                                       <br>
                                         <a href="img/Brandsläckarvagn3.png" class="thumb">
-                                            <img src="img/finalist.png" alt="" class="img-responsive">
+                                            <img src="img/vinnare.png" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>

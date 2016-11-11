@@ -134,7 +134,7 @@
                     </div>
 
                     <div class="alert alert-info" style="property:value;" role="alert">
-                      <strong>Årets säkerhetslösning</strong> på Security Awards 2016. <a href="https://medium.com/progressivesafety/brandsl%C3%A4ckarvagnen-easyextinguish-vinner-%C3%A5rets-s%C3%A4kerhetsl%C3%B6sning-p%C3%A5-security-awards-2016-15894ece63da#.gf2kygw9j">Läs mer här.</a>
+                      Progressive Safety får rikstäckande genombrotts order från affärskedjan Kicks: <a href="https://medium.com/@progressivesafety/progressive-safety-f%C3%A5r-rikst%C3%A4ckande-genombrotts-order-fr%C3%A5n-aff%C3%A4rskedjan-kicks-9ece9208bf3b#.ezvfalcqh">Läs mer här</a>
                     </div>
                 </div>
                 <!-- /#navbar -->
@@ -250,8 +250,8 @@ _________________________________________________________ -->
         <div id="copyright">
             <div class="container">
                 <div class="col-md-12">
-                    <p><center>2016. Progressive Safety Sweden AB<center></p>
-                    </p>
+                    <p><center>Progressive Safety Sweden AB i sammarbete med <a style="color: white;" href="http://coptercaps.se/">Coptercaps</a><center></p>
+
 
                 </div>
             </div>

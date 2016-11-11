@@ -15,7 +15,9 @@
                         <div class="row" id="productMain">
                             <div class="col-sm-6">
                                 <div id="mainImage">
-                                    <img src="img/Brandsläckarvagn1.png" alt="" class="img-responsive">
+                                    <img src="img/Brandsläckarvagn1.png" alt="" class="img-responsive" style="
+    padding-top: 60px;
+">
                                 </div>
 
                                 <div class="ribbon sale">

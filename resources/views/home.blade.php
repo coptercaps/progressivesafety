@@ -236,15 +236,15 @@
                             <div class="col-sm-4">
                                 <div class="box-image">
                                     <div class="image">
-                                        <img src="img/portfolio-10.png" alt="" class="img-responsive">
+                                        <img src="img/portfolio-12.png" alt="" class="img-responsive">
                                     </div>
                                     <div class="bg"></div>
                                     <div class="name">
                                     </div>
                                     <div class="text">
-                                        <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
+                                        <p class="hidden-sm">Stockholms läns landsting utrustar sina konferensytor med EasyExtunguish</p>
                                         <p class="buttons">
-                                            <a href="#" class="btn btn-template-transparent-primary">Läs mer</a>
+                                            <a href="https://medium.com/progressivesafety/stockholms-l%C3%A4ns-landsting-utrustar-sina-konferensytor-med-easyextunguish-40fb83de0832#.rj9nwsnxy" class="btn btn-template-transparent-primary">Läs mer</a>
                                         </p>
                                     </div>
                                 </div>

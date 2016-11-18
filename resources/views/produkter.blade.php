@@ -34,7 +34,7 @@
                                     <form>
                                         <div class="sizes">
 
-                                            <h3>BRANDSLÄCKARVAGN EASYEXTINGUISH</h3>
+                                            <h3>DEN MOBIL UPPHÄGNINGSANORDNINGEN EASYEXTINGUISH</h3>
 
 
                                         </div>

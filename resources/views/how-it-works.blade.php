@@ -7,7 +7,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="heading text-center">
-						<h2>Så funkar brandsläckaren <b>EasyExtinguish</b></h2>
+						<h2>Så funkar den mobila upphägningsanordningen <b>EasyExtinguish</b></h2>
 						<p style="font-weight:bold;">Här följer en instruktionsvideo på hur brandsläckaren EasyExtinguish fungerar.</p>
 					</div>
 				</div>

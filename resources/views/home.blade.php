@@ -185,7 +185,7 @@
 -->
         <!-- /.bar -->
 
-<!--
+
 <section class="bar background-white no-mb">
        <div class="container">
                 <div class="row">
@@ -198,13 +198,13 @@
                             <div class="col-sm-4">
                                 <div class="box-image">
                                     <div class="image">
-                                        <img src="img/portfolio-11.png" alt="" class="img-responsive">
+                                        <img src="img/portfolio-15.png" alt="" class="img-responsive">
                                     </div>
                                     <div class="bg"></div>
                                     <div class="name">
                                     </div>
                                     <div class="text">
-                                        <p class="hidden-sm">Progressive Safety får rikstäckande genombrotts order från affärskedjan Kicks</p>
+                                      <!--  <p class="hidden-sm">Progressive Safety får rikstäckande genombrotts order från affärskedjan Kicks</p>-->
                                         <p class="buttons">
                                             <a href="https://medium.com/@progressivesafety/progressive-safety-f%C3%A5r-rikst%C3%A4ckande-genombrotts-order-fr%C3%A5n-aff%C3%A4rskedjan-kicks-9ece9208bf3b#.ezvfalcqh" class="btn btn-template-transparent-primary">Läs mer</a>
                                         </p>
@@ -217,15 +217,15 @@
                             <div class="col-sm-4">
                                 <div class="box-image">
                                     <div class="image">
-                                        <img src="img/portfolio-10.png" alt="" class="img-responsive">
+                                        <img src="img/portfolio-13.png" alt="" class="img-responsive">
                                     </div>
                                     <div class="bg"></div>
                                     <div class="name">
                                     </div>
                                     <div class="text">
-                                        <p class="hidden-sm">Årets säkerhetslösning på Security Awards 2016</p>
+                                        <!--<p class="hidden-sm">Hälso- och sjukvårdsförvaltningen i Stockholms läns landsting</p>-->
                                         <p class="buttons">
-                                            <a href="https://medium.com/progressivesafety/brandsl%C3%A4ckarvagnen-easyextinguish-vinner-%C3%A5rets-s%C3%A4kerhetsl%C3%B6sning-p%C3%A5-security-awards-2016-15894ece63da#.vy99pdgjh" class="btn btn-template-transparent-primary">Läs mer</a>
+                                            <a href="https://medium.com/progressivesafety/h%C3%A4lso-och-sjukv%C3%A5rdsf%C3%B6rvaltningen-i-stockholms-l%C3%A4ns-landsting-utrustar-med-den-mobila-upph-2c261756f01b#.36v9zbbjb" class="btn btn-template-transparent-primary">Läs mer</a>
                                         </p>
                                     </div>
                                 </div>
@@ -236,15 +236,15 @@
                             <div class="col-sm-4">
                                 <div class="box-image">
                                     <div class="image">
-                                        <img src="img/portfolio-12.png" alt="" class="img-responsive">
+                                        <img src="img/portfolio-11.png" alt="" class="img-responsive">
                                     </div>
                                     <div class="bg"></div>
                                     <div class="name">
                                     </div>
                                     <div class="text">
-                                        <p class="hidden-sm">Stockholms läns landsting utrustar sina konferensytor med EasyExtunguish</p>
+                                      <!--  <p class="hidden-sm">Borås stad ökar tillgängligheten av sitt brandskydd</p> -->
                                         <p class="buttons">
-                                            <a href="https://medium.com/progressivesafety/stockholms-l%C3%A4ns-landsting-utrustar-sina-konferensytor-med-easyextunguish-40fb83de0832#.rj9nwsnxy" class="btn btn-template-transparent-primary">Läs mer</a>
+                                            <a href="https://medium.com/progressivesafety/bor%C3%A5s-stad-%C3%B6kar-tillg%C3%A4ngligheten-av-sitt-brandskydd-med-den-mobila-upph%C3%A4ngningsanordningen-f5b495ca9bf7#.v1shy9idh" class="btn btn-template-transparent-primary">Läs mer</a>
                                         </p>
                                     </div>
                                 </div>
@@ -253,7 +253,7 @@
                             </div>
 
                         </div>
-                      -->
+
 
 
                   <!--      <div class="see-more">

@@ -91,7 +91,7 @@
   <div class="row">
     <div class="container">
       <div class="row">
-        <div class="col-md-6 col-sm-6">
+        <div class="col-md-12 col-sm-12">
           <img src="img/ahmed.png" class="img-quadrata center-block">
           <h3 class="text-center">Ahmed Mireé
                       <br>
@@ -102,16 +102,6 @@
                       </h3>
         </div>
 
-        <div class="col-md-6 col-sm-6">
-          <img src="img/farok.png" class="img-quadrata center-block">
-          <h3 class="text-center">Faruk Kastrat
-                      <br>
-                      <ul class="list-unstyled">
-                      <small><li><a href="tel:+46765888298" style="color:black">076 588 82 98</a></li></small>
-                      <small><li><a href="mailto:faruk.kastrat@progressivesafety.se" style="color:black">faruk.kastrat@progressivesafety.se </a></li></small>
-                      </ul>
-                      </h3>
-        </div>
       </div>
     </div>
   </div>

@@ -132,10 +132,11 @@
                         </div>
                         <!--/.nav-collapse -->
                     </div>
-
+                <!--
                     <div class="alert alert-info" style="property:value;" role="alert">
                       Progressive Safety får rikstäckande genombrotts order från affärskedjan Kicks: <a href="https://medium.com/@progressivesafety/progressive-safety-f%C3%A5r-rikst%C3%A4ckande-genombrotts-order-fr%C3%A5n-aff%C3%A4rskedjan-kicks-9ece9208bf3b#.ezvfalcqh">Läs mer här</a>
                     </div>
+                  -->
                 </div>
                 <!-- /#navbar -->
 

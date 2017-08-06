@@ -19,7 +19,7 @@
 	    <div class="row">
 	        <div class="col-md-12">
 	            <div class="vid">
-	                <iframe width="560" height="315" src="//www.youtube.com/embed/mcBT_OAUVcM" allowfullscreen=""></iframe>
+	                <iframe width="560" height="315" src="//www.youtube.com/embed/kzEY6j6c62M" allowfullscreen=""></iframe>
 	            </div><!--./vid -->
 
 	        </div><!--.col -->

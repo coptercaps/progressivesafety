@@ -12,11 +12,11 @@ class PSTools {
 		// Cannot use switch due to only returning TRUE or FALSE
 		if (Request::is('/')) {
 			$strToReturn = "";
-		} else if (Request::is('produkter')) {
+		} else if (Request::is('products')) {
 			$strToReturn = "Produkter";
 		} else if (Request::is('how-it-works')) {
 			$strToReturn = "Så funkar det";
-		} else if (Request::is('kontakt')) {
+		} else if (Request::is('contact')) {
 			$strToReturn = "Kontakt";
 		} else if (Request::is('customers')) {
 			$strToReturn = "Kunder";
@@ -32,9 +32,7 @@ class PSTools {
 			$strToReturn = "Press";
 		} else if (Request::is('resellers')) {
 			$strToReturn = "Återförsäljare";
-		}else if (Request::is('lediga-jobb')) {
-            $strToReturn = "Lediga jobb";
-        }
+		}
 
 		if ($lowercase) {
 			$strToReturn = strtolower($strToReturn);

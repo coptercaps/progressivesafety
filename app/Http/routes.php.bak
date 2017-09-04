@@ -25,8 +25,8 @@ Route::get('/how-it-works', function() {
 	return view('how-it-works');
 });
 
-Route::get('/lediga-jobb', function() {
-	return view('lediga-jobb');
+Route::get('/customers', function() {
+	return view('customers');
 });
 
 // Using controller to handle post

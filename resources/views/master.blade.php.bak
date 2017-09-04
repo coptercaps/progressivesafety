@@ -117,9 +117,10 @@
                                 <li class="nav-item {{ Request::is('how-it-works') ? 'active' : '' }}">
                                   <a class="nav-link" href="/how-it-works">Så funkar det</a>
                                 </li>
-                                <li class="nav-item {{ Request::is('lediga-jobb') ? 'active' : '' }}">
-                                  <a class="nav-link" href="/lediga-jobb">Lediga jobb</a>
+                            <!--    <li class="nav-item {{ Request::is('customers') ? 'active' : '' }}">
+                                  <a class="nav-link" href="/customers">Kunder</a>
                                 </li>
+                            -->
                                 <li class="nav-item {{ Request::is('contact') ? 'active' : '' }}">
                                     <a class="nav-link" href="/kontakt">Kontakt</a>
                                 </li>

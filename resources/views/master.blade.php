@@ -205,6 +205,7 @@ _________________________________________________________ -->
               <!--      <h5><a href="/team" class="inverse">Team</a></h5>
                     <h5><a href="/our-story" class="inverse">Vår Story</a></h5> -->
                     <p><a href="/media" class="inverse">Press</a></p>
+                    <p><a href="/lediga-jobb" class="inverse">Lediga jobb</a></p>
 
                 </div>
 

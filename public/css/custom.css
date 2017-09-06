@@ -63,3 +63,13 @@ p {
 #map {
 
 }
+
+@media screen and (max-width: 991px) {
+    .lower-video{
+        margin-top:40px;
+    }
+}
+
+.reset-inline{
+    display:block!important;
+}
